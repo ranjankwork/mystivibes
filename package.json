@@ -1,8 +1,8 @@
 {
-  "name": "house-party",
+  "name": "mystivibes",
   "private": true,
-  "homepage": "https://marconix.co.in/hp",
-  "version": "0.0.0",
+  "homepage": "https://mystivibes.vercel.app/",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
